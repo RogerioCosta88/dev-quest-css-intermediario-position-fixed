@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+}
+
+body {
+    height: 1500px;
+    padding-top: 67px;
+}
+
+header {
+    font-size: 25px;
+    position: fixed;
+    background-color: #008000;
+    width: 100%;
+    padding: 20px;
+    top: 0;
+}
+
+.principal {
+    font-size: 25px;
+}
