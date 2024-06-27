@@ -24,3 +24,14 @@ main {
 .image img {
     width: 100%;
 }
+
+@media (max-width: 576px) {
+    header {
+        background-color: #DAF0FF;
+        text-align: center;
+    }
+
+    header li {
+        float: none;
+    }
+}
